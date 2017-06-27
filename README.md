@@ -1,2 +1,2 @@
 # dmt
-dictionary base machine translation
+dictionary based machine translation
